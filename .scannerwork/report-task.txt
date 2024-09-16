@@ -1,0 +1,8 @@
+organization=sylvain-combe-sonarsource
+projectKey=sylvain-combe-sonarsource_DVWA
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.56641
+branch=branch-fix-secret
+dashboardUrl=https://sonarcloud.io/dashboard?id=sylvain-combe-sonarsource_DVWA&branch=branch-fix-secret
+ceTaskId=AZH7lpGQsEQa84wH8A6q
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZH7lpGQsEQa84wH8A6q
